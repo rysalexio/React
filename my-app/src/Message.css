@@ -1,6 +1,5 @@
-.Msg-header{
-    background-color: #ddae56;
-  min-height: 100vh;
+.Msg-header {
+  background-color: #ddae56;
   display: flex;
   flex-direction: column;
   align-items: center;

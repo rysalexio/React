@@ -1,10 +1,10 @@
 import './Message.css';
 
-function Message({ message }) {
+function Message({ title }) {
     return (
         <div className="Msg">
             <header className="Msg-header">
-                {message}
+                {title}
             </header>
         </div>
     );

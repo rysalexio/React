@@ -1,0 +1,10 @@
+.MessageList {
+  background-color: #afa3b3;
+  min-width: 250px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  font-size: calc(10px + 2vmin);
+  color: rgb(29, 15, 155);
+}
